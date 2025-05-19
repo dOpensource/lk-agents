@@ -1,0 +1,6 @@
+{
+  "trunk": {
+    "name": "My inbound trunk",
+    "numbers": ["+13134903595", "+13136129074"]
+  }
+}

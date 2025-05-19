@@ -1,0 +1,8 @@
+{
+  "trunk": {
+    "name": "My outbound trunk",
+    "address": "sbc1.customers.dsiprouter.net:5060",
+    "transport": 1,
+    "numbers": ["+13137891313", "+18889072085"]
+  }
+}
