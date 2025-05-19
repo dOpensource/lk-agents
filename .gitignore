@@ -1,2 +1,5 @@
 # System Environment Files
 .env*
+
+# Virtual Environment Files
+.venv/*

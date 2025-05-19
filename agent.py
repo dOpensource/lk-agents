@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Annotated, Optional
 
 from dotenv import load_dotenv
-from livekit import rtc, api
+from livekit import rtc 
 from livekit import agents
 from livekit.agents import JobContext, WorkerOptions, llm
 from livekit.agents.llm import function_tool
